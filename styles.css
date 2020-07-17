@@ -1,0 +1,97 @@
+body {
+    padding:4px 4px 4px 4px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFH-uOaZb87qz5j_kxouWjS7oXE2roJqkPiA&usqp=CAU');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+
+.qure{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAYfdjkf_5XjIApvOFvxVqKCPDGa3rOqZrqQ&usqp=CAU');
+    background-size: 100%;
+    padding:5px 5px 5px 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    font-size: x-large;
+}
+
+
+  
+  .dark-mode {
+    background-image:linear-gradient(to right,purple,darkblue);
+   
+
+  }
+  .dark-mode .we {
+    color: white;
+  }
+  
+
+
+
+.we {
+    left:200px;
+}
+.logo{
+    position:absolute;
+    left:50px;
+    top:0px;
+    width:130px;
+    height:110px;
+    border-radius: 305px;
+}
+.imgr img{
+    max-width:265px;
+    max-height:240px;
+}
+.box  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    
+    color:rgb(85, 20, 85);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy6V1xBxtpVI7oFs55UPTqUDSjyau6ud87FQ&usqp=CAU');
+    background-size: 100%;
+    margin:20px;
+    padding:8px 8px 8px 8px;
+    border: 5px solid white;
+    color: crimson;
+}
+
+.box ol li p {
+        font-style: italic;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:rgb(29, 29, 80);
+        font-size: x-large;
+}
+.box ol li span{
+    font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 25px ;
+    color:maroon;
+}
+ table, td {  
+    border: 5px solid #ddd;
+    text-align: left;
+    padding: 27px 47px 27px 47px;
+    border-style: 27px dotted darkblue;
+  }
+table,td {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size:large;
+    color:darkred;
+    
+}
+.jumbotron{
+    background-image:linear-gradient(to right,rgb(46, 70, 200),rgb(138, 235, 100),rgb(126, 111, 211));
+}
+
+#navbarSupportedContent{
+    background-image:linear-gradient(to left,lightyellow,lightpink)
+}
+.navbar{
+    background-image:linear-gradient(powderblue,darkblue)
+}
